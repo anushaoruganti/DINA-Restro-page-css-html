@@ -1055,6 +1055,7 @@ body{
       .animie img {
         width: 50%;
         height: 100%;
+        padding: 2em;
       }
       .animie {
         margin-top: 40vh !important;
@@ -1423,6 +1424,7 @@ body{
   .animie img {
     width: 50%;
     height: 100%;
+    padding: 2em;
   }
   .animie {
     margin-top: 40vh !important;
